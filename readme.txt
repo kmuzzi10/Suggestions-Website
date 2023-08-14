@@ -1,0 +1,1 @@
+suggestion website using js axios and ejs this will tell you suggestions that what to do when you get bored just give your activity and participants
